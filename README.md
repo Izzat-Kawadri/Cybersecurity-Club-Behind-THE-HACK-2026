@@ -40,6 +40,7 @@ Participants gained a general understanding of career paths and specializations.
 
 
 #### 📘 Read More: 
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/Cybersecurity%20Fields)
 
 #### 🔗 Contributor: 
 - **Maryam Abd Alfattah** 🔗 [Linkedin](https://www.linkedin.com/in/maryam-abd-alfattah-50691b242/)
@@ -62,7 +63,7 @@ Participants learned how to detect and avoid phishing scams.
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/Phishing)
 #### 🔗 Contributor: 
 - **Tasneem Shalaby** 🔗 [Linkedin](https://www.linkedin.com/in/tasneem-shalaby-054002400)
 - **Muhammad Shaaban** 🔗 [Linkedin](https://www.linkedin.com/in/muhammad-shaban-8b6361234)
@@ -81,7 +82,7 @@ Focused on best practices for password protection:
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/Password%20Security)
 #### 🔗 Contributor: 
 - **Kinana Alasheq** 🔗 [Linkedin](https://www.linkedin.com/in/kinana-alasheq-60097421b/)
 
@@ -101,7 +102,7 @@ Basic prevention techniques were also introduced.
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/Web%20Application%20Security)
 #### 🔗 Contributor:
 - **ahmad fahed** 🔗 [Linkedin](https://www.linkedin.com/in/ahmad-fahed-133933322/)
 - **Abd El-Hafeez Jiroun** 🔗 [Linkedin](https://www.linkedin.com/in/abd-el-hafeez-jiroun-a028a8390/)
@@ -120,7 +121,7 @@ Participants explored:
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/OSINT)
 #### 🔗 Contributor: 
 - **Muhannad Abo Hajia** 🔗 [Linkedin](https://www.linkedin.com/in/muhannadabohajia/)
 - **Raghad Abbas** 🔗 [Linkedin](https://www.linkedin.com/in/raghad-abbas-64a441401)
@@ -139,7 +140,7 @@ This section explained:
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/Malware%20Awareness)
 #### 🔗 Contributor: 
 ---
 
@@ -159,7 +160,7 @@ Participants experienced how security teams detect and respond to threats.
 
 
 #### 📘 Read More: 
-
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/SOC)
 #### 🔗 Contributor: 
 - **Mohammad Ayham Syraji** 🔗 [Linkedin](https://www.linkedin.com/in/ayham3)
    
@@ -180,6 +181,8 @@ Participants experienced how security teams detect and respond to threats.
 
 
 #### 📘 Read More: 
+👉 [Corner README](https://github.com/Izzat-Kawadri/Cybersecurity-Club-Behind-THE-HACK-2026/tree/main/IoT%20(Internet%20of%20Things)%20Security)
+
 #### 🔗 Contributor: 
 - **Jamal Al Midani** 🔗 [Linkedin](https://www.linkedin.com/in/jamal-al-midani-067366359/)
 - **Izzat Kawadri** 🔗 [Linkedin](https://www.linkedin.com/in/izzat-kawadri/)
