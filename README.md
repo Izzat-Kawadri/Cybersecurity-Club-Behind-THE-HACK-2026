@@ -231,7 +231,7 @@ A huge thank you to everyone who made **Cyber Security Club** and the **Behind T
 - **Tasneem Shalaby** 🔗 [Linkedin](https://www.linkedin.com/in/tasneem-shalaby-054002400)
 - **Muhammad Shaaban** 🔗 [Linkedin](https://www.linkedin.com/in/muhammad-shaban-8b6361234)
 - **Muhannad Abo Hajia** 🔗 [Linkedin](https://www.linkedin.com/in/muhannadabohajia/)
-- **Raghad Abbas**
+- **Raghad Abbas** 🔗 [Linkedin](https://www.linkedin.com/in/raghad-abbas-64a441401)
 - **Mohammad Ayham Syraji** 🔗 [Linkedin](https://www.linkedin.com/in/ayham3)
 - **Kinana Alasheq** 🔗 [Linkedin](https://www.linkedin.com/in/kinana-alasheq-60097421b/)
 - **Jamal Al Midani** 🔗 [Linkedin](https://www.linkedin.com/in/jamal-al-midani-067366359/)
